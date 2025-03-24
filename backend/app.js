@@ -8,6 +8,11 @@ dotenv.config({path:path.join(__dirname,'config','config.env')})
 
 connectionDatabase();
 
+const contact = require('./routes/contactRoute')
+
+app.use(express.json())
+app.use('/api/',contact)
+
 app.listen(process.env.PORT,()=>{
     console.log(`Server is Running on Port ${process.env.PORT} on ${process.env.NODE_ENV}`)
 })
