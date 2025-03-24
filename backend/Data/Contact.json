@@ -1,0 +1,39 @@
+[
+    {
+      "firstName": "Thamizh Arasan",
+      "lastName": "Suresh",
+      "phoneNumber": 9361741325,
+      "email": "js@gamil.com"
+    },
+    {
+      "firstName": "Sharmila",
+      "lastName": "Ezhumalai",
+      "phoneNumber": 9025485517,
+      "email": "sharmila@gmail.com"
+    },
+    {
+      "firstName": "Subhalakshmi",
+      "lastName": "Vinayagam",
+      "phoneNumber": 8825857024,
+      "email": "subha@gmail.com"
+    },
+    {
+      "firstName": "Sabari Raj",
+      "lastName": "Pazhani",
+      "phoneNumber": 9361867233,
+      "email": "sabariraj@gmail.com"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "phoneNumber": 5432109876,
+      "email": "michael.johnson@example.com"
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Williams",
+      "phoneNumber": 4321098765,
+      "email": "sophia.williams@example.com"
+    }
+  ]
+  
