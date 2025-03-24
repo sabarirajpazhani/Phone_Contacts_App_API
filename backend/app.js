@@ -8,7 +8,7 @@ dotenv.config({path:path.join(__dirname,'config','config.env')})
 
 connectionDatabase();
 
-const contact = require('./routes/contactRoute')
+const contact = require('./rotue/contactRoute')
 
 app.use(express.json())
 app.use('/api/',contact)
